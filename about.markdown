@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Who am I?
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Erik Hensarling; I am a technologist by trade, a husband, athlete, and life enthusiast at all other times.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+What is this site for?
 
+I wanted to create an place to journal and write. Most of the stuff here likely won't be that great.
 
-[jekyll-organization]: https://github.com/jekyll
+Why use GitHub Pages?
+
+I do not feel like this content should be cataloged directly on social media. Through github pages I can maintain a local copy of this information without a database back end.
+
+Contact me:
+
+Email: firstname.lastname@gmail.com (use your human brain to figure out the real email address.) :-)
