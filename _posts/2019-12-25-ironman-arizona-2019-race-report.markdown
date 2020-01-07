@@ -8,7 +8,7 @@ categories:
 
 # Ironman Arizona 2019 Race Report
 
-Swim .. 1:09:17<br>T1 ........ 0:13:20<br>Bike ..... 5:47:34<br>T2 ........ 0:11:13<br>Run ..... 4:32:09<br>Overall 11:53:34
+Swim .. 01:09:17<br>T1 ........ 00:13:20<br>Bike ..... 05:47:34<br>T2 ........ 00:11:13<br>Run ..... 04:32:09<br>Overall 11:53:34
 
 Outline:
 
