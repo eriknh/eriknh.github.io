@@ -5,4 +5,3 @@
 layout: home
 ---
 
-Where does this appear?
