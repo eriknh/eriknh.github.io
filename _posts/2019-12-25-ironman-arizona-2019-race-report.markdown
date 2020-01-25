@@ -18,7 +18,7 @@ Disclaimer: This journal entry is mainly so I can remember the details of this r
 
 Before we get too far into this, I want to thank my wife who had to wait for me to finish a workout on many occasions. My bike ride would take too long or the swims would run into 2 hour sessions; though she reminded me occasionally that I was late (which I often am), she made getting through the training and eventual event a dream. I could not have done it without her. She is a great sherpa-wife-teammate-badass.
 
-![Cassandra Hensarling](/uploads/IMG_2210.jpeg)
+![Cassandra Hensarling](/uploads/IMG_2210.jpeg "Awesome Person")
 
 &nbsp;
 
