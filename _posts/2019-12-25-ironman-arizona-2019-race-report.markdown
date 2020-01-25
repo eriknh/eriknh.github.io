@@ -8,9 +8,15 @@ categories:
 
 # Ironman Arizona 2019 Race Report
 
-Swim .. 01:09:17<br>T1 ........ 00:13:20<br>Bike ..... 05:47:34<br>T2 ........ 00:11:13<br>Run ..... 04:32:09<br>Overall 11:53:34
+Swim .. 01:09:17<br>T1 …….. 00:13:20<br>Bike ….. 05:47:34<br>T2 …….. 00:11:13<br>Run ….. 04:32:09<br>Overall 11:53:34
 
-Outline:
+Disclaimer: This journal entry is mainly so I can remember the details of this race years later and say, "oh yeah."
+
+Before we get too far into this, I want to thank my wife who had to wait for me to finish a workout on many occasions. My bike ride would take too long or the swims would run into 2 hour sessions; though she reminded me occasionally that I was late (which I often am), she made getting through the training and eventual event a dream. I could not have done it without her. She is a great sherpa-wife-teammate-badass.
+
+![Cassandra Hensarling](/uploads/img-2210.jpeg){: width="3024" height="4032"}
+
+&nbsp;
 
 1. Overall feelings heading into the race
 2. Swim start and swim experience
