@@ -16,7 +16,13 @@ Swim .. 01:09:17<br>T1 …….. 00:13:20<br>Bike ….. 05:47:34<br>T2 …….. 0
 
 Disclaimer: This journal entry is mainly so I can remember the details of this race years later and say, "oh yeah." If I get too preachy or brag, deal with it.
 
-Before we get too far into this, I want to thank my wife who had to wait for me to finish a workout on many occasions. My bike ride would take too long or the swims would run into 2 hour sessions; though she reminded me occasionally that I was late (which I often am), she made getting through the training and eventual event a dream. I could not have done it without her. She is a great sherpa-wife-teammate-badass.
+Before we get too far into this, I want to thank my wife who had to wait for me to finish a workout on many occasions. My bike ride would take too long or the swims would run into 2 hour sessions; though she reminded me occasionally that I was late (which I often am), she made getting through the training and eventual event a dream. I could not have done it without her. She is also really good at the following things:
+
+1. Tolerating me because I am mostly an irresponsible child deep down.
+2. Reminding you that a day off is a good thing and do not feel bad about it.
+3. Being a great sherpa-wife-teammate-badass.
+4. Gauze wrapping and taping my road rash.
+5. Loving me for who I am.
 
 ![Cassandra Hensarling](/uploads/IMG_2210.jpeg "Awesome Person")
 
