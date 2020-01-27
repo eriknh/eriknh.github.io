@@ -12,7 +12,7 @@ Date: November 24, 2019
 
 Ironman Class of 2019 XD
 
-Swim .. 01:09:17<br>T1 …….. 00:13:20<br>Bike ….. 05:47:34<br>T2 …….. 00:11:13<br>Run ….. 04:32:09<br>Overall 11:53:34
+> Swim .. 01:09:17<br>T1 …….. 00:13:20<br>Bike ….. 05:47:34<br>T2 …….. 00:11:13<br>Run ….. 04:32:09<br>Overall 11:53:34
 
 Disclaimer: This journal entry is mainly so I can remember the details of this race years later and say, "oh yeah." If I get too preachy or brag, deal with it.
 
