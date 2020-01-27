@@ -26,6 +26,8 @@ Before we get too far into this, I want to thank my wife who had to wait for me 
 
 ![Cassandra Hensarling](/uploads/IMG_2210.jpeg "Awesome Person")
 
+With the actual race being about 2 months away, I was headed into heavy training load weeks in September/October 2019. My main concern were the long runs and being able to recover from the run distance enough to maintain the build momentum. Each week consisted of a track speed session on Wednesday, followed by a short run on Friday, and a long run on Sunday. The run "week" began on Wednesday with a hard track session full of sprints. This session quite frequently put my lower legs into the hurt zone for a couple of days and required many stretching/rolling sessions to ease the tension.
+
 &nbsp;
 
 1. Overall feelings heading into the race
