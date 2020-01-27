@@ -1,9 +1,9 @@
 ---
-layout: post
 title: Ironman Arizona 2019 Race Report
-date: 2019-12-25 00:00:00
+date: 2019-12-25 00:00:00 Z
 categories:
-  - triathlon
+- triathlon
+layout: post
 ---
 
 # Ironman Arizona 2019 Race Report
