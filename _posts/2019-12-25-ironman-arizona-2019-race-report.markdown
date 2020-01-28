@@ -8,11 +8,6 @@ layout: post
 
 # Ironman Arizona 2019 Race Report
 
-{% include note.html 
-    content="This is my note. All the content I type here is 
-    treated as a single paragraph." %}
-
-
 Date: November 24, 2019
 
 Ironman Class of 2019 XD
